@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on V.V College of Engineering<br>🤝 I’m looking for help with App development<br>🌱 I’m currently learning Flutter
+🔭 I’m currently studying on V.V College of Engineering<br>🤝 I’m looking for help with Full Stack development<br>🌱 I’m currently learning Python/Django 
 
 
 ## 🌐 Socials:
