@@ -102,32 +102,8 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jebarsydyana&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jebarsydyana&layout=compact&theme=react&hide_border=true&langs_count=8" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jebarsydyana&theme=react&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jebarsydyana&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jebarsydyana&theme=react-dark&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Jebarsydyana&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Jebarsydyana&layout=compact&theme=react&hide_border=true&langs_count=8" height="180"/>
 </p>
 
 ---
@@ -135,7 +111,11 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jebarsydyana/Jebarsydyana/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="./github-snake.svg" />
+  </picture>
 </p>
 
 ---
