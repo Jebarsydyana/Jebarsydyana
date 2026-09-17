@@ -14,9 +14,10 @@ jobs:
       contents: write
 
     runs-on: ubuntu-latest
+    timeout-minutes: 5
 
     steps:
-      - name: Generate Snake
+      - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Jebarsydyana
@@ -24,7 +25,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
+      - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
