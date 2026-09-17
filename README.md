@@ -2,10 +2,6 @@
 
 ### 🚀 Data Engineer | AI & GenAI Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jebarsydyana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ## 💫 About Me
 
 🎓 Computer Science & Engineering graduate passionate about **Data Engineering, Cloud Data Platforms, and Generative AI**.
