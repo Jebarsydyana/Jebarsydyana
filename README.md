@@ -1,18 +1,179 @@
-# 💫 About Me:
-🔭 I’m currently pursuing a B.E. in Computer Science and Engineering at VV College of Engineering.<br>👯 I’m looking to collaborate on software engineering.<br>🌱 I have expertise in Python Full Stack.<br>💬 Any Software Applications can be developed here—DM me on LinkedIn.
+# 👋 Hi, I'm Jebarsy Ebenezer Dyana
 
+### 🚀 Data Engineer | AI & GenAI Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jebarsy-dyana) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCy-ZqVHpF2IE7DkHFQmPO4Q) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jebarsydyana190605@gmail.com) 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Jebarsydyana&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jebarsydyana&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Jebarsydyana&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jebarsydyana&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💫 About Me
+
+🎓 Computer Science & Engineering graduate passionate about **Data Engineering, Cloud Data Platforms, and Generative AI**.
+
+🔭 Building **end-to-end data pipelines and AI-powered analytics applications** using Python, SQL, AWS, Snowflake, dbt, and Apache Airflow.
+
+🧠 Exploring **LLMs, RAG, embeddings, Text-to-SQL, and AI application development**.
+
+⚡ I learn by building real-world projects and turning ideas into working solutions.
+
+🎯 Currently focused on growing as a **Data Engineer and AI/GenAI Engineer**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Jebarsydyana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📚 Currently Learning
+
+**Data Engineering • Cloud Data Platforms • Generative AI • LLM Applications • RAG • AI-powered Analytics**
+
+---
+
+## 🚀 Featured Project
+
+### 🍴 Zomato Intelligence Platform
+
+**End-to-End Data Engineering & Generative AI Analytics**
+
+An end-to-end platform that combines **Data Engineering and Generative AI** to transform raw Zomato data into analytics, intelligent insights, and natural-language data interaction.
+
+### 🔄 Data & AI Pipeline
+
+```text
+Raw Data
+   ↓
+AWS S3
+   ↓
+Snowflake
+   ↓
+dbt
+   ↓
+Apache Airflow
+   ↓
+Gemini
+   ↓
+Embeddings + RAG
+   ↓
+Text-to-SQL
+   ↓
+Streamlit Analytics
+```
+
+**Core Areas:**
+Data Ingestion • ETL/ELT • Data Warehousing • Data Transformation • Workflow Orchestration • Cloud Data Engineering • LLMs • RAG • Embeddings • Text-to-SQL • AI Analytics
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 🏗️ Data Engineering
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge\&logo=apacheairflow\&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge\&logo=dbt\&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge\&logo=apachespark\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+
+### ☁️ Cloud & Data Platforms
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge\&logo=amazons3\&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge\&logo=snowflake\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+
+### 🤖 AI & Generative AI
+
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
+
+**LLMs • RAG • Embeddings • Vector Search • Text-to-SQL • AI-powered Analytics**
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+### 🔧 Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jebarsy-dyana">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCy-ZqVHpF2IE7DkHFQmPO4Q">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:jebarsydyana190605@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jebarsydyana&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jebarsydyana&layout=compact&theme=react&hide_border=true&langs_count=8" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Jebarsydyana&theme=react&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jebarsydyana&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jebarsydyana&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jebarsydyana/Jebarsydyana/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning ideas into real projects and learning new technologies by building them hands-on. 🚀
+
+---
+
+<p align="center">
+  <b>🚀 Build • Learn • Automate • Engineer with Data & AI</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
